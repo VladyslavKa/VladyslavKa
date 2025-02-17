@@ -1,5 +1,12 @@
-## Hi there 👋
+### About me:
 
+```
+Full-stack developer focused on front-end technologies with a full understanding of the entire
+development process — from idea to deployment. I enjoy every stage of creating web applications,
+including design, styling, JavaScript, server-side coding, testing, and CI/CD deployment
+```
+
+From Kharkiv with love :love_letter: :ukraine:
 <!--
 **VladyslavKa/VladyslavKa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
